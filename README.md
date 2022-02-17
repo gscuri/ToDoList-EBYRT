@@ -9,7 +9,7 @@ Back-End em NodeJS, com MongoDB;
 
 Arquitetura em camadas;
 
-Funcionalidades:
+# Funcionalidades:
 
 Visualizar a lista de tarefas;
 
